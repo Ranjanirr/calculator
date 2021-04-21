@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+ 
+  flex-direction: column;
+  position: absolute;
+
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left:500px;
+  top: 100px;
+
+}
+
+.body{
+  background-color: #F9EFFB;
+  
+}
+.head{
+  background-color: #F9EFFB;
+  font-family: 'Lora', serif;
+  display: flex;
+  justify-content: center;
+  position:relative;
+  padding: 20px;
+  bottom: 30px;
+  font-size: 25px;
+  text-decoration: underline;
+ }
